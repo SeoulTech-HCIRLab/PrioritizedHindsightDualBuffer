@@ -56,6 +56,7 @@ Install RLBench
 env/reach_target.py by tasks/reach_target.py
 env/close_box.py by tasks/close_box.py
 env/close_mircowave.py to tasks/close_mircrowave.py
+conda_environment.yml file contains all the necessary packages required to run this experiment.
 ~~~
 ### Run  
 ~~~
