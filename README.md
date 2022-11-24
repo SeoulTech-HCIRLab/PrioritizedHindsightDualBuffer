@@ -63,7 +63,6 @@ env/close_mircowave.py to tasks/close_mircrowave.py
 ### Run  
 ~~~
 python algo/check_multi_main.py 
-python algo/final_main.py
 ~~~
 
 
