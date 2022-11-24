@@ -52,16 +52,18 @@ Install RLBench
   
 ## How to run
 ### Replace environment files
+env/conda_environment.yml file contains all the necessary packages required to run this experiment.
 ~~~
+
 env/reach_target.py by tasks/reach_target.py
 env/close_box.py by tasks/close_box.py
 env/close_mircowave.py to tasks/close_mircrowave.py
-conda_environment.yml file contains all the necessary packages required to run this experiment.
+
 ~~~
 ### Run  
 ~~~
 python algo/check_multi_main.py 
-python algo/final/final_main.py
+python algo/final_main.py
 ~~~
 
 
