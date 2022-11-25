@@ -15,7 +15,7 @@ from gym import spaces
 import torch.nn as nn
 import torch as T
 from utils import plotLearning
-from check_multi_agent import perAgent
+from final_multi_agent import perAgent
 
 #np.random.seed(200)
 #np.random.seed(1)
