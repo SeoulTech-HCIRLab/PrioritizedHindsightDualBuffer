@@ -61,8 +61,14 @@ env/close_mircowave.py to tasks/close_mircrowave.py
 
 ~~~
 ### Run  
+
+To run HER
 ~~~
 python algo/check_multi_main.py 
+~~~
+To run the proposed use the same sac.py
+~~~
+python algo/final/final_multi_main.py
 ~~~
 
 
