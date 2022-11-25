@@ -89,7 +89,7 @@ class perAgent():
         n=np.random.choice(['priority','regular'],1,p=[0.3,0.7])
         
         
-        if self.prio_memory.counter < 200:
+        if self.prio_memory.counter < 100000:
             return
     
       
