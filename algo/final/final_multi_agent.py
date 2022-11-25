@@ -2,7 +2,7 @@ import os
 import torch as T
 import torch.nn.functional as F
 import numpy as np
-from check_per_her import Buffer,PrioritizedReplay
+from final_per_her import Buffer,PrioritizedReplay
 from sac import ActorNetwork, CriticNetwork, ValueNetwork
 
 
